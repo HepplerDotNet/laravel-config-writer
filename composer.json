@@ -18,6 +18,13 @@
         "php": ">=7.1.0",
         "illuminate/config": "~5.8."
     },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "October\\Rain\\Config\\ServiceProvider"
+        ],
+    }
+},
     "autoload": {
         "psr-4": {
             "October\\Rain\\Config\\": "src/"
