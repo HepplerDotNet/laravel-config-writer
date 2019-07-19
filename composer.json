@@ -22,7 +22,7 @@
     "laravel": {
         "providers": [
             "October\\Rain\\Config\\ServiceProvider"
-        ],
+        ]
     }
 },
     "autoload": {
