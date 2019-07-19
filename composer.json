@@ -1,5 +1,5 @@
 {
-    "name": "daftspunk/laravel-config-writer",
+    "name": "HepplerDotNet/laravel-config-writer",
     "description": "Laravel provider to be able to rewrite configuration",
     "homepage": "http://octobercms.com",
     "keywords": ["october cms", "october", "laravel", "config", "write", "provider"],
@@ -16,10 +16,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "illuminate/config": "~5.0."
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^7.0"
+        "illuminate/config": "~5.8."
     },
     "autoload": {
         "psr-4": {
